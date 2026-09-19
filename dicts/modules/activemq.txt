@@ -1,0 +1,26 @@
+# module: activemq
+# meta: layer=tech density=high match=activemq
+/admin/
+/admin/index.jsp
+/admin/queues.jsp
+/admin/topics.jsp
+/admin/connections.jsp
+/admin/network.jsp
+/admin/scheduled.jsp
+/admin/subscribers.jsp
+/admin/browse.jsp
+/admin/createDestination.jsp
+/admin/send.jsp
+/admin/queueBrowse/example
+/api/
+/api/list
+/api/queues
+/api/topics
+/api/message
+/admin/xml/queues.jsp
+/admin/test.jsp
+/operator/
+/console/
+/activemq/
+/webapps/
+/status
